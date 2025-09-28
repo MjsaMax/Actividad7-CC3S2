@@ -1,0 +1,9 @@
+commit e3dcacf068802b111d6e9a6993bbee31df3c2842
+gpg: Signature made Sun Sep 28 16:09:00 2025 -05
+gpg:                using RSA key ACBAAA41C681E411AA73989AA652574D27811716
+gpg: Good signature from "Serrano Arostegui Max Jairo (none) <mjsamax@gmail.com>" [ultimate]
+Merge: 9cf1657 3eca03b
+Author: Serrano Arostegui Max Jairo <mjsamax@gmail.com>
+Date:   Sun Sep 28 16:09:00 2025 -0500
+
+    merge con firma

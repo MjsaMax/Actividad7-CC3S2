@@ -1,0 +1,9 @@
+*   688e3a6 (HEAD -> master) Validacion realizada correctamente
+|\  
+| * 8049b4a (feature-validate) Commit desde feature-validate
+| * 1467667 (feature-rebase) Commit primero en -rebase
+|/  
+* 474df79 Commit segundo
+* db30b77 commit despues de crear feature
+* 32be85d (feature--fonly) Commit desde feature-ffonly
+* 8cebab7 Commit desde main

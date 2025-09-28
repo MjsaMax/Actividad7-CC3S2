@@ -1,0 +1,7 @@
+* d976529 (HEAD -> master) Revert "Merge branch 'add-feature'"
+*   0444a76 Merge branch 'add-feature'
+|\  
+| * 915cd2b (add-feature) Commit 2 en add-feature
+| * 3555522 Commit 1 en add-feature
+|/  
+* b7bc836 Commit inicial en main
