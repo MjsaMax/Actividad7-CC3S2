@@ -48,11 +48,11 @@ Que en un proyecto cada colaborador se encargue de partes especificas e independ
 
 * ¿Cómo se ve el DAG en cada caso?
 ```
-texto desde feat-b.
+En merge --ff mostraba solo un branch que es el principal, en merge --no-ff mostraba como se unen dos branch y se crea un commit adicional, y en el squash se mostraba como de importante es a veces tener que resumir varios commits irrelevantes para tener mayor orden y exactitud en la trazabilidad del proyecto.
 ```
 * ¿Qué método prefieres para: trabajo individual, equipo grande, repos con auditoría estricta?
 ```
-texto agregado desde feat-a..sad conflicto en main
+Para trabajo individual es correcto usar el merge--ff debido a su mayor facilidad y que se debe de tomar en cuenta que solo esta trabajando uno, por tanto el proyecto no tiene objetivos que puedan diverger, En equipos grandes si seria mejor usar merge--no-ff debido a su mayor trazabilidad y orden respecto a las ramas que se generan por los colaboradores, finalmente para auditoria seria mas eficiente merge --squash, ya que facilita la legibilidad con mayor precision lo que ocurre en cada commit. 
 ```
 
 ### Revertir una fusión (solo si **HEAD es un merge commit**)
