@@ -52,7 +52,7 @@ texto desde feat-b.
 ```
 * ¿Qué método prefieres para: trabajo individual, equipo grande, repos con auditoría estricta?
 ```
-texto agregado desde feat-a..sad
+texto agregado desde feat-a..sad conflicto en main
 ```
 
 ### Revertir una fusión (solo si **HEAD es un merge commit**)
